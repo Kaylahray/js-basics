@@ -18,7 +18,7 @@ _Answer_: ECMAScript was first released in the year 1997.
 
 ## Question 4: How do you log to the console?
 
-_Answer_: By using the " _console.log();_ "
+_Answer_: By using the " _console.log( );_ "
 
 ## Question 5: List the tech fields that use javascript?
 
