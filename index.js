@@ -9,7 +9,7 @@ let firstName = "Chioma";
 let lastName = "Christopher";
 let stuternTrack = "Front-end web development track";
 let skills =
-  " Excellent teamwork , communication, research and problem solving skills";
+  "Excellent teamwork , communication, research and problem solving skills";
 let favouriteColor = "black and blue";
 let CountryIndependenceYear = 1960;
 

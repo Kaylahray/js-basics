@@ -32,13 +32,13 @@ _Answer_:
 - Data Visualization.
 - Embedded Device Development and IoT(internet of things).
 
-## Question 6: Differntiate between Statically typed and Dynamically typed programming language and give examples of languages that fall under each category?
+## Question 6: Differentiate between Statically typed and Dynamically typed programming language and give examples of languages that fall under each category?
 
 _Answer_:
 
 - Statically typed programming languages are programming languages that do type checking at compile time, while dynamically typed programming language performs type checking at run-time or execution time.
 
-- In statically typed programming languages explicit type declarations are required, while in dynamically typed programming language explicit declarations are not required.
+- In statically typed programming languages explicit type declarations are required, while in dynamically typed programming language explicit type declarations are not required.
 
 - In statically typed programming languages variables assignment are static and cannot be changed, while in dynamically typed programming language variables assignment are dynamic and can be altered.
 
