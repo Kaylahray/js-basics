@@ -1,41 +1,53 @@
-# js-basics
-
 ## Question 1: What runs JavaScript outside the browser?
 
-- Answer: A program called NODE.
+_Answer_: The Node runtime environment.
 
 ## Question 2: Name 5 things JavaScript can do?
 
-Answer:
-(1). Adding interactive behaviour to web pages.
-(2). Creating Web and Mobile Applications.
-(3). Browser-based games and building chatbots.
-(4). Building web servers and developing server applications.
-(5). Manipulating Flying drones and robots
+_Answer_:
+
+- Adding interactive behaviour to web pages.
+- Creating Web and Mobile Applications.
+- Browser-based games and building chatbots.
+- Building web servers and developing server applications.
+- Manipulating Flying drones and robots
 
 ## Question 3: When was ECMAScript first released?
 
-Answer: ECMAScript was first realeased in the year 1997.
+_Answer_: ECMAScript was first released in the year 1997.
 
 ## Question 4: How do you log to the console?
 
-Answer: By using the " console.log(); "
+_Answer_: By using the " console.log(); "
 
 ## Question 5: List the tech fields that use javascript?
 
-Answer:
-(1). Front-end Web Development.
-(2). Mobile Application Development.
-(3). Artificial Intelligence.
-(4). Back-end Web Development.
-(5). Desktop Application.
-(6). Data Visualization.
-(7). Embedded Device Development and IoT(internet of things).
+_Answer_:
 
-## Question 6: Differntiate between Statically type and Dynamically typed programming language and give examples of languages that fall under each category?
+- Front-end Web Development.
+- Mobile Application Development.
+- Artificial Intelligence.
+- Back-end Web Development.
+- Desktop Application.
+- Data Visualization.
+- Embedded Device Development and IoT(internet of things).
 
-Answer:
+## Question 6: Differntiate between Statically typed and Dynamically typed programming language and give examples of languages that fall under each category?
+
+_Answer_:
+
+- statically typed programming languages are programming languages that do type checking at compile time, while dynamically typed programming language performs type checking at run-time or execution time.
+
+- In statically typed programming languages explicit type declarations are required, while in dynamically typed programming language explicit declarations are not required.
+
+- In statically typed programming languages variables assignment are static and cannot be changed, while in dynamically typed programming language variables assignment are dynamic and can be altered.
+
+- **Examples of statically typed programming languages are C++, Java, C, Go, Haskell, c# and Scala. While examples od dynamically typed programming languages are JavaScript, Python, Perl, CoffeScript, Ruby, Php and Erlang.**
 
 ## Question 7: Differentiate between the JavaScript data types 'null' and undefined & nbsp?
 
-Answer:
+_Answer_:
+
+- Undefined is a primitive data type that has a value of undefined. When a variable has been declared but not assigned a value, it holds the value _undefined_.
+- Null is an assignment value and is assigned to a variable as a representation of no value.
+- &nbsp or non-breaking space is used in programming or word processing to create a space that cannot be broken by word wrap.
