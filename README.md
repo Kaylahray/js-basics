@@ -1,6 +1,6 @@
 ## Question 1: What runs JavaScript outside the browser?
 
-_Answer_: The Node runtime environment.
+_Answer_: The **Node** runtime environment.
 
 ## Question 2: Name 5 things JavaScript can do?
 
